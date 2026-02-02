@@ -1,1 +1,2 @@
 # internship_day_task_11
+A mobile-first responsive layout built using CSS Grid and Flexbox. The design includes a header, sidebar, main content, and footer, and adapts smoothly across mobile, tablet, and desktop screen sizes using media queries.
